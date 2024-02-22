@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// Connor McDaniel
+// COP3502
+// Lab Assignment 6
+// 2/22/24
+
 int search(int numbers[], int low, int high, int value) 
 {
     if (low > high) {
